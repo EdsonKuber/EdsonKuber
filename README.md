@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @EdsonKuber
+- 👋 Hi, I’m @EdsonKuber a student.
 - 👀 I’m interested in Computer
 - 🌱 I’m currently learning c#
 - 💞️ I’m looking to collaborate on Github Source Code
